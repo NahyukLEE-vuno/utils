@@ -1,0 +1,5 @@
+*.nii
+*.dcm
+*.nii.gz
+__pycache__/
+*.pyc
